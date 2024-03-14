@@ -1,0 +1,64 @@
+##Resources @@@Next.js 
+
+npx create-next-app@latest play 
+
+
+##@@@ Sanity ###  
+
+https://www.sanity.io/login/success (surujx@gmail.com) 
+
+
+https://www.sanity.io/manage/personal/project/soi999pz 
+
+######3############
+SETUP SANITY 
+
+install sanity @globally :: 
+
+npm install -g @sanity/cli && sanity init 
+
+###sanity npm
+#sanity init         ## u\in (studio folder) 
+
+install sanity client : 
+
+install sanity/images/url/// 
+#####
+
+npm install --save @sanity/image-url
+
+sanity start  ###(studio//folder//for backend sanity to et executed)####
+
+
+Generate the Key ## to the Account 
+extension://ejbalbakoplchlghecdalmeeeajnimhm/home.html#settings/about-us
+
+
+#############Genrating ##SettingUp-System##### 
+metamaks account :: privatekey :: 
+
+
+###########installing ###########web 3 sdk 
+
+npm install @3rdweb/react @3rdweb/hooks/sdk
+
+check more ####3
+
+https://portal.thirdweb.com/
+
+
+##### install Dependencies needed ########
+
+https://portal.thirdweb.com/react/v4
+
+
+npm install @3rdweb/react @3rdweb/hooks
+
+npm install 3rdweb/sdk ######
+
+npm install style-components 
+
+
+
+
+
